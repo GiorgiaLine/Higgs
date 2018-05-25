@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=t\ S\ binlo\ binhi
+comment0.target=Histogram(java.lang.String,\ int,\ double,\ double)
+comment1.params=
+comment1.target=int\ getSize()
+comment10.params=trials
+comment10.target=void\ WriteToDisk(double)
+comment2.params=
+comment2.target=double\ getBinSize()
+comment3.params=x
+comment3.target=void\ fillh(double)
+comment4.params=nbin
+comment4.target=double\ getError(int)
+comment5.params=nbin
+comment5.target=double\ getPerror(int)
+comment6.params=
+comment6.target=int\ getUnderflow()
+comment7.params=
+comment7.target=int\ getOverflow()
+comment8.params=
+comment8.target=java.lang.String\ getTitle()
+comment9.params=nbin
+comment9.target=int\ getContent(int)
+numComments=11

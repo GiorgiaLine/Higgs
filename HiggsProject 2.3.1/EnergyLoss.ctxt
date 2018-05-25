@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=E
+comment0.target=double\ getEnergyL(double)
+comment1.params=material\ z\ a\ ro\ e
+comment1.target=EnergyLoss(java.lang.String,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getBeta()
+numComments=3

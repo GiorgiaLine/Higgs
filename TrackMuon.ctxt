@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ getStartingConditions()
+comment0.text=Set\ the\ seed\ and\ get\ data\ from\ the\ keyboard
+comment1.params=xmean\ sigma
+comment1.target=double\ gauss(double,\ double)
+comment1.text=Throw\ a\ gaussian\ distribution\ given\ the\ mean\ and\ sigma
+comment2.params=nsteps\ track\ finalE\ n
+comment2.target=void\ lookAtThisMuon(int,\ double[][][],\ double,\ int)
+comment2.text=Allows\ output\ for\ each\ muon\ after\ the\ tracking\ has\ finished.
+comment3.params=Data
+comment3.target=void\ Tracking(double[][])
+comment4.params=
+comment4.target=double[][][]\ GetFinald1()
+comment5.params=nsteps\ trackOfMuon
+comment5.target=void\ WritePositionToDisk(double,\ double[][][])
+comment5.text=public\ static\ double\ []\ []\ GetFinald2()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ return\ Finald2;\ \r\n\ \ \ \ }\r\n\ \ \ \ public\ static\ double\ []\ []\ GetFinald3()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ return\ Finald3;\ \r\n}
+numComments=6

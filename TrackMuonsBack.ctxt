@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=double\ getQ(double)
+comment1.params=B\ R\ Q\ d
+comment1.target=double\ getPperp(double,\ double,\ double,\ double)
+comment10.params=x\ y\ n
+comment10.target=double[]\ lineFit(double[],\ double[],\ int)
+comment2.params=grad\ x0\ y0
+comment2.target=double\ getPhi(double,\ double,\ double)
+comment3.params=BPhi\ delta
+comment3.target=double\ getLPhi(double,\ double)
+comment4.params=Phi\ BPhi
+comment4.target=double\ getdelta(double,\ double)
+comment5.params=x0\ y0
+comment5.target=double\ getBPhi(double,\ double)
+comment6.params=P_T1\ P_T2\ P_T3\ P_T4\ Pz1\ Pz2\ Pz3\ Pz4\ E1\ E2\ E3\ E4
+comment6.target=double\ getOriginalMass(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment7.params=Prec
+comment7.target=double\ getInvMass(double[][])
+comment8.params=P_T1\ P_T2\ P_T3\ P_T4\ Pz1\ Pz2\ Pz3\ Pz4
+comment8.target=double\ getAbsMomentum(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment9.params=q1\ q2\ q3\ q4
+comment9.target=double\ getOriginalQ(double,\ double,\ double,\ double)
+numComments=11

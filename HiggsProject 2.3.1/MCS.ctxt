@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=inputEnergy\ thickness
+comment0.target=double\ getThetaL(double,\ double)
+comment1.params=Element\ z\ a\ ro\ t\ e\ q
+comment1.target=MCS(java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double)
+numComments=2
